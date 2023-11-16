@@ -1,4 +1,4 @@
-# VotingSystem_Using_SpringBoot
+## VotingSystem_Using_SpringBoot
 Developed using Technologies such as
 i) Thymeleaf,CSS : designing page layout.
 ii) Java : all the logic has been written in java.
