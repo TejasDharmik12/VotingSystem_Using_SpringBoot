@@ -1,7 +1,7 @@
 ## VotingSystem_Using_SpringBoot
 Developed using Technologies such as
-i) Thymeleaf,CSS : designing page layout.
-ii) Java : all the logic has been written in java.
-iii) MySQL: MySQL database has been used as database.
-iv) SpringSecurity: SpringSecurity has been used for authentication.
-v) Hibernate: Hibernate ORM is used.
+1. Thymeleaf,CSS : designing page layout.
+2. Java : all the logic has been written in java.
+3. MySQL: MySQL database has been used as database.
+4. SringSecurity: SpringSecurity has been used for authentication.
+5. Hibernate: Hibernate ORM is used.
