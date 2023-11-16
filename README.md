@@ -4,7 +4,7 @@ Developed using Technologies such as
 2. Java : all the logic has been written in java.
 3. MySQL: MySQL database has been used as database.
 4. SringSecurity: SpringSecurity has been used for authentication.
-5. Hibernate: Hibernate ORM is used.
+5. Hibernate-JPA: Hibernate-JPA ORM is used.
 
 ## Project Screenshots
 
