@@ -6,6 +6,8 @@ Developed using Technologies such as
 4. SringSecurity: SpringSecurity has been used for authentication.
 5. Hibernate-JPA: Hibernate-JPA ORM is used.
 
+## Mysql Schema
+![App Screenshot](https://github.com/TejasDharmik12/VotingSystem_Using_SpringBoot/blob/main/project_ss/mysql_schema.png)
 ## Project Screenshots
 
 ![App Screenshot](https://github.com/TejasDharmik12/VotingSystem_Using_SpringBoot/blob/main/project_ss/New_Voter_Registration.png)
@@ -21,3 +23,4 @@ Developed using Technologies such as
 ![App Screenshot](https://github.com/TejasDharmik12/VotingSystem_Using_SpringBoot/blob/main/project_ss/voter_dashboard.png)
 
 ![App Screenshot](https://github.com/TejasDharmik12/VotingSystem_Using_SpringBoot/blob/main/project_ss/voter_signin.png)
+
